@@ -1,0 +1,11 @@
+{
+  "name": "watcherupload",
+  "version": "1.0.0",
+  "description": "watch local files ,when it change ,cheange the remote file to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
