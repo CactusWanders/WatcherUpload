@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "cactuswanders",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2-streams": "0.1.16",
+    "watch": "1.0.1"
+  }
 }
