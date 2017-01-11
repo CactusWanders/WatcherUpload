@@ -1,0 +1,10 @@
+{
+    "server":{
+    	"host": "10.59.77.12",
+	    "user": "www",
+	    "password": "@ggjcwww",
+	    "port": "22"
+    },
+    "remote_path": "/data1/www/paf_release/houshiqun/fin/frontend/page/watcherupload/",
+    "local_path": "./"
+}
